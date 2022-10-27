@@ -1,0 +1,22 @@
+body {
+    padding: 50px;
+    text-align: center;
+    background-color:#dddee0;
+    color: #313436;
+}
+
+.song-title {
+    font-size: 55px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+span {
+    font-style: italic;
+}
+
+p {
+    font-size: 20px;
+}
